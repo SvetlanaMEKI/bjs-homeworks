@@ -58,3 +58,4 @@ function getAverageMark(marks) {
     roundedAverage = Math.round(average);
     return roundedAverage;
 }
+
